@@ -1,0 +1,17 @@
+package project.computershop.dao;
+
+public enum DaoTypes {
+    CUSTOMER,
+    EMPLOYEE,
+    ITEM,
+    ITEMTRANSATCIONDETAILS,
+    LOGINRECORD,
+    REPAIR,
+    REPAIRTRANSACTIONDETAILS,
+    SUPPLIER,
+    SUPPLIES,
+    SUPPLIESDETAILS,
+    TRANSACTION,
+    USER,
+    QUERY
+}
